@@ -45,6 +45,14 @@ body{
 .row1 div h2, .secondTitle, .thirdTitle{
     color: #d8b75a;
 }
+.uf{
+    display: flex;
+    margin-left: 350px;
+}
+.fu{
+   
+    margin-left: 3px;
+}
 
 #carrusel-img-logo{
     height: 50%;
