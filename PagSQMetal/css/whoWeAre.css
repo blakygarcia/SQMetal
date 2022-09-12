@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+.containerImg{
+    position: relative;
+    z-index: -1;
+}
+#facebook-icon{
+    color: #3b5998;
+}
+#instagram-icon{
+    color:   #d62976;
+}
+#twitter-icon{
+    color: #1DA1F2;
+}
+
+#copyright, .otherPages{
+    color: #fff;
+}
+
+body{
+    background-color: rgb(26, 25, 25);
+}
+.content{
+    width: 350px;
+    height: 250px;
+}
+
+.container.marketing{
+
+    background: #0c0c0cf5;
+    
+}
+.phone-number, .email-infomation{
+    display: flex;
+}
+.email-information, .phone-information{
+    margin-left: 10%;
+}
+
+.fa-2x{
+    color: #d8b75a;
+}
+
+.row1 div h2, .secondTitle, .thirdTitle{
+    color: #d8b75a;
+}
+
+#carrusel-img-logo{
+    height: 50%;
+    width: 100%;  
+}
+#myCarousel{
+    margin-top: 4%;
+}
+
+#homeImagesSQMetal{
+    width: 100%;
+    height: 100%;
+}
+#rowMaterialsHome{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#imageCircleHome{
+    margin-left: 20%;
+}
+#subtitleTextImagesCircle{
+    margin-left: 10%;
+}
+
+@media(max-width:300px) {
+    #im{
+        flex: 100%;
+    }
+  
+    
+}
+
+

@@ -1,0 +1,105 @@
+.containerImg{
+    position: relative;
+    z-index: -1;
+}
+
+.crownIconImage{
+    background-image: url("../images/home/crownIcon.png");
+    height: 32px;
+    width: 32px;
+}
+
+
+#nav{
+    background-color: black;
+    font-size:18px;
+}
+
+.fa-2x{
+    color: #d8b75a;
+}
+.phone-number, .email-infomation{
+    display: flex;
+}
+.email-information, .phone-information{
+    margin-left: 10%;
+}
+
+
+.row1 div h2, .secondTitle, .thirdTitle{
+    color: #d8b75a;
+}
+
+header img{
+    width: 100%;
+}
+
+
+
+
+#changesnavbarScrapHome{
+    
+    width: 100%;
+}
+
+#buttonMore{
+    margin-left: 30%;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+#homeImagesSQMetal{
+    width: 100%;
+    height: 100%;
+}
+#rowMaterialsHome{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#imageCircleHome{
+    margin-left: 20%;
+    cursor: pointer;
+}
+/*this is the subtitles*/
+.subtitleTextImagesCircle{
+    margin-left: 10%;
+    cursor: pointer;
+    margin-bottom: 70px;
+}
+/*Colocamos la imagen del centro mas centrada*/
+#imageBetweenCircleHome{
+    margin-left: 20%;
+    cursor: pointer;
+}
+
+
+#navbarScroll{
+    width: 100%;
+}
+
+nav .stickyNavbar{
+    position: fixed;
+    top: 0;
+    
+}
+
+.rowFerrous, .rowNonFerrous, .rowCardboard{
+    margin-bottom: 65px;
+}
+
+.textMaterialModal{
+    font-size: 40px;
+}
+
+.modal-body{
+    text-align: center;
+}
+
+.sizeImg{
+    width: 400px;
+    height: 600px;
+    margin: auto;
+}

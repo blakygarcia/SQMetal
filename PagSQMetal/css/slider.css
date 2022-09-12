@@ -1,0 +1,53 @@
+.j{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100hv;
+    text-align: center;
+
+}
+
+.content{
+
+    overflow: hidden;
+    position: relative;
+}
+
+.btn-slider{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    display: flex;
+    transform: translateX(-50%);
+}
+
+.btn-slider span{
+    height: 15px;
+    width: 50px;
+    border: 2px solid white;
+    margin: 0 3px;
+    cursor:pointer;
+}
+
+.btn-slider span:hover{
+    background: white;
+}
+.right{
+    margin-right: 20px;
+}
+
+.slide span{
+    font-size: 35px;
+    color: white;
+    line-height: 41px;
+}
+
+
+.content .slide:hover{
+    background: rgba(255,255,255,0.2);
+}

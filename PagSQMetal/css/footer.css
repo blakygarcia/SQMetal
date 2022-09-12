@@ -1,0 +1,42 @@
+/*Start the Footer style*/
+
+
+.phoneNumberFooter{
+    width: 100%;
+}
+
+.followUsTextFooter{
+    color: #FFF;
+
+}
+.underlinedTextFooter{
+    color: #FFF;
+}
+
+.row-social-media{
+    margin-bottom: 40px;
+}
+
+
+
+/*The following style is for the icon in font-awsome*/
+.fa-facebook{
+    color:  #0165E1;
+    margin-left: 5%;
+}
+.fa-instagram{
+    color: #8a3ab9;
+    margin-left: 15%;
+    padding-left: 0%;
+}
+
+.social-media-footer{
+    margin-left: 43%;
+    margin-right: 30px;
+}
+.iconInstagram{
+    margin-left: 5%;
+}
+.copyrightText{
+    margin-top:30px
+}

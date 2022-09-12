@@ -1,0 +1,128 @@
+/*The following style is for the nav*/
+nav{
+    width: 100%;
+    background-color: black;
+    font-size: 18px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    height: 60px;
+}
+
+ul{
+    margin-left: 150px auto 0;
+    padding:0;
+    list-style: none;
+    display: table;
+    width: 100%;
+    text-align: center;
+    
+}
+li{
+    display: table-cell;
+    position: relative;
+    
+
+}
+
+a{
+    color: #FFF;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0;
+    display: inline-block;
+    position: relative;
+}
+
+a:after{
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #d8b75a;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+    -webkit-transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    -moz-transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    -ms-transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    -o-transition: width 0.3s ease 0s, left 0.3s ease 0s;
+}
+a:hover{
+    color: #d8b75a;
+}
+
+a:hover:after{
+    width: 100%;
+    left:0;
+    /*color: #d8b75a;*/
+}
+
+
+.textNav{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 30%;
+}
+.itemNavbar{
+    
+    width: 150px; /*this is the size that have every item in the navbar*/
+    
+   /* border: 1px solid rgb(255, 0, 0);*/
+}
+/*
+.contentNavTextUL{
+    border: 1px solid #fff;
+}*/
+
+
+.containerTextNavAfter{ /*Se cumple solamente cuando aparece la corona en el nav*/
+    margin-left: -4%;
+    
+}
+/*
+.containerTextNav{
+    border: 1px solid #d8b75a;
+}*/
+
+@media(max-width:700px){
+    a{
+        letter-spacing: 0;
+        font-size: 12px;
+    }
+    .containerTextNav{
+        padding-left: 0%;
+    }
+    .textNav{
+        padding-left: 0%;
+        margin-left: -40%;
+        width: 75px; /*Logra separar el texto*/
+
+    }
+    .containerTextNavAfter{ /*Se cumple solamente cuando aparece la corona en el nav*/
+        margin-left: -1%;
+        
+    }
+    .itemNavbar{
+        width: 75px; /*this is the size that have every item in the navbar*/
+        
+    }
+    nav{
+        height:40px;
+    }
+    
+}
+
+@media(max-width:999px){
+    .containerTextNav{
+        padding-left: 5%;
+    }
+}
+
+
+@media(min-width:1000px){
+    .containerTextNav{
+        padding-left: 30%;
+    }
+}

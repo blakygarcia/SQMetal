@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+main{
+    margin-top: 150px;
+}
+
+#facebook-icon{
+    color: #3b5998;
+}
+#instagram-icon{
+    color:   #d62976;
+}
+#twitter-icon{
+    color: #1DA1F2;
+}
+
+#copyright, .otherPages{
+    color: #fff;
+}
+
+
+
+
+.fa-2x{
+    color: #d8b75a;
+}
+
+.row1 div h2, .secondTitle, .thirdTitle{
+    color: #d8b75a;
+}
+.phone-number, .email-infomation{
+    display: flex;
+}
+.email-information, .phone-information{
+    margin-left: 10%;
+}
+
+.profilInformation{
+    color: #fff;
+    font-size: 22px;
+}
+.profilInformation-line2{
+    color: #fff;
+    font-size: 17px;
+}
+#subtitleCard{
+    color: #fff;
+}
+.titleText{
+    color: #d8b75a;
+    font-size: 36px;
+}
+
+.containercard {
+    
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    z-index: 1;
+}
+
+.containercard .card{
+    
+    position: relative;
+    width: 280px;
+    height: 400px;
+    margin: 30px;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    overflow:  hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(5px);
+}
+
+.containercard .card .content{
+    padding: 20px;
+    text-align: center;
+    
+    opacity: 1;
+    transition: 0.5s;
+    
+}
+
+
+
+.containercard .card .content h2{
+    position: absolute;
+    top: -30px;
+    right: 30px;
+    font-size: 8em;
+    color: rgba(255, 255, 255, 0.05);
+    pointer-events: none;
+}
+
+
+.containercard .card .content h3{
+    font-size: 1.8em;
+    color: #fff;
+    font-weight: 300;
+}
+.containercard .card .content a{
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 15px;
+    background: #fff;
+    color: #000;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+
+
+}
+
+
+
+

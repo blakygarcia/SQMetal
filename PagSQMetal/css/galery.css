@@ -1,0 +1,41 @@
+.cont {
+    margin-left: 1200px;
+}
+.itr{
+    color: black;
+ }
+.it{
+   color: black;
+}
+.tite{
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+body{
+    background-color: rgb(43, 43, 43);
+}
+.album{
+    background-color: rgb(43, 43, 43);  
+}
+.container{
+    background-color: rgb(43, 43, 43);  
+}
+.card {
+    background-color: rgb(43, 43, 43);  
+    padding: auto;  
+}
+.fondo{
+    background-color: rgb(43, 43, 43);  
+}
+.card-text{
+    background-color: rgb(43, 43, 43);   
+}
+
+@media(max-width:300px){
+  .row{
+      margin-left: 50px;
+  }
+
+}
