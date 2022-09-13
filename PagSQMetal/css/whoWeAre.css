@@ -1,34 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 .containerImg{
     position: relative;
     z-index: -1;
 }
-#facebook-icon{
-    color: #3b5998;
-}
-#instagram-icon{
-    color:   #d62976;
-}
-#twitter-icon{
-    color: #1DA1F2;
+
+.crownIconImage{
+    background-image: url("../images/home/crownIcon.png");
+    height: 32px;
+    width: 32px;
 }
 
-#copyright, .otherPages{
-    color: #fff;
-}
 
+#nav{
+    background-color: black;
+    font-size:18px;
+}
 body{
     background-color: rgb(26, 25, 25);
 }
-.content{
-    width: 350px;
-    height: 250px;
-}
-
-.container.marketing{
-
-    background: #0c0c0cf5;
-    
+.fa-2x{
+    color: #d8b75a;
 }
 .phone-number, .email-infomation{
     display: flex;
@@ -37,21 +27,40 @@ body{
     margin-left: 10%;
 }
 
-.fa-2x{
-    color: #d8b75a;
-}
 
 .row1 div h2, .secondTitle, .thirdTitle{
     color: #d8b75a;
 }
 
-#carrusel-img-logo{
-    height: 50%;
-    width: 100%;  
+header img{
+    width: 100%;
 }
-#myCarousel{
-    margin-top: 4%;
+#lo{
+    width: 350px;
+    height: 500px;
+    
 }
+
+.j{
+    width: 350px;
+    height: 500px;
+    
+}
+
+
+#changesnavbarScrapHome{
+    
+    width: 100%;
+}
+
+#buttonMore{
+    margin-left: 30%;
+    margin-bottom: 50px;
+}
+
+
+
+
 
 #homeImagesSQMetal{
     width: 100%;
@@ -63,16 +72,55 @@ body{
 }
 #imageCircleHome{
     margin-left: 20%;
+    cursor: pointer;
 }
-#subtitleTextImagesCircle{
+/*this is the subtitles*/
+.subtitleTextImagesCircle{
     margin-left: 10%;
+    cursor: pointer;
+    margin-bottom: 70px;
+}
+/*Colocamos la imagen del centro mas centrada*/
+#imageBetweenCircleHome{
+    margin-left: 20%;
+    cursor: pointer;
 }
 
+
+#navbarScroll{
+    width: 100%;
+}
+
+nav .stickyNavbar{
+    position: fixed;
+    top: 0;
+    
+}
+
+.rowFerrous, .rowNonFerrous, .rowCardboard{
+    margin-bottom: 65px;
+}
+
+.textMaterialModal{
+    font-size: 40px;
+}
+
+.modal-body{
+    text-align: center;
+}
+
+.sizeImg{
+    width: 400px;
+    height: 600px;
+    margin: auto;
+}
 @media(max-width:300px) {
     #im{
         flex: 100%;
     }
-  
+    .p{
+        text-align: center;
+    }
     
 }
 
