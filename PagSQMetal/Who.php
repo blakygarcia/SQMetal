@@ -13,7 +13,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> <!-- This is a library for animation on scroll -->
-    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/whoWeAre.css">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/modals.css">
@@ -51,10 +51,10 @@
 
             <div class="row featurette row1"  data-aos="fade-up">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">About us.</h2>
-                    <p class="lead">Scrap Queen Metal Corporation is a 100% Costa Rican environmental management company, we take care of providing environmental solutions to your company, our operations are based on: Recovery and transportation of recoverable, non-recoverable, dangerous and special waste.</p>
+                    <h2 class="featurette-heading ">About us.</h2>
+                    <p class="lead text-white">Scrap Queen Metal Corporation is a 100% Costa Rican environmental management company, we take care of providing environmental solutions to your company, our operations are based on: Recovery and transportation of recoverable, non-recoverable, dangerous and special waste.</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-5" id="lo">
                     <img src="images/welding.jpg" alt="" id="homeImagesSQMetal" class="imgHomeBody01 rounded">
                 </div>
             </div>
@@ -64,9 +64,9 @@
             <div class="row featurette" data-aos="fade-right"  data-aos-easing="ease-in-sine">
                 <div class="col-md-7 order-md-2">
                     <h2 class="featurette-heading secondTitle">What we are looking for ? </h2>
-                    <p class="lead">We are interested in being a recycling center for its service, quality and responsibility that the population of my country and the commercial sector use to responsibly dispose of their recyclable waste. We seek to open a door to foreign trade with various destinations, through the exchange of raw materials for recycling. We are oriented to establish long term relationships with our suppliers and buyers, a relationship based on quality, respect and responsibility in the handling of ferrous and non-ferrous scrap.</p>
+                    <p class="lead text-white">We are interested in being a recycling center for its service, quality and responsibility that the population of my country and the commercial sector use to responsibly dispose of their recyclable waste. We seek to open a door to foreign trade with various destinations, through the exchange of raw materials for recycling. We are oriented to establish long term relationships with our suppliers and buyers, a relationship based on quality, respect and responsibility in the handling of ferrous and non-ferrous scrap.</p>
                 </div>
-            <div class="col-md-5 order-md-1">
+            <div class="col-md-5 order-md-1" id="lo">
             <img src="images/peopleSQ.jpg" alt="" id="homeImagesSQMetal"  class="imgHomeBody02 rounded">
 
             </div>
@@ -77,7 +77,7 @@
             <div class="row featurette row1">
                 <div class="col-md-8 ">
                     <h2 class="featurette-heading ">Our Services. <span class="text-muted"></span></h2>
-                    <p class="lead ">We are a company certified as an authorized waste manager of ferrous and non-ferrous materials. We also have a certificate for the transport of ferrous and non-ferrous waste.Placement of containers in your compan's yards (collection center). Export of already managed waste!.</p>
+                    <p class="lead text-white ">We are a company certified as an authorized waste manager of ferrous and non-ferrous materials. We also have a certificate for the transport of ferrous and non-ferrous waste.Placement of containers in your compan's yards (collection center). Export of already managed waste!.</p>
                 </div>
                 <div class="col-md-3">
                     <div class="j">
