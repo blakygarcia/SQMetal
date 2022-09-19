@@ -11,6 +11,7 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> <!-- This is a library for animation on scroll -->
     <link rel="stylesheet" href="css/theQueen.css">
     <script href="js/contact.js"></script>
+    <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/navOtherPages.css">
     <link rel="stylesheet" href="css/footer.css">
 
