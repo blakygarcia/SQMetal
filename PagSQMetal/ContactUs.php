@@ -62,32 +62,32 @@
             <form id="contactSQ" class="row g-3" method="post" action="backEnd/sendEmail.php">
                 <div class=" border border-dark col-md-9 p-3 mt-2 ml-2 mr-2">
                     <div class="row ">
-                        <H1>
+                        <H1 class="subtitleColor">
                             Send Your Comments
                         </H1>
 
                         <div class="col-9 form-floating mb-3">
-                            <input type="text" class="form-control"  name="usernameEmail" placeholder="Name">
+                            <input type="text" class="form-control formStyleTxt"  name="usernameEmail" placeholder="Name">
                             <label>Name</label>
                         </div>
 
                         <div class="col-md-6"></div>
                         <div class="col-md-9 form-floating mb-3">
                             
-                            <input type="email" class="form-control" id="inputEmail4" name="userEmail" placeholder="Email">
+                            <input type="email" class="form-control formStyleTxt" id="inputEmail4" name="userEmail" placeholder="Email">
                             <label for="inputEmail4" class="form-label ">Email</label>
                         </div>
 
                     </div>
                     <div class="col-9 form-floating mb-3">
                         
-                        <input type="text" class="form-control" id="subject" name="subjectEmail" placeholder="Subject">
+                        <input type="text" class="form-control formStyleTxt" id="subject" name="subjectEmail" placeholder="Subject">
                         <label for="subject" class="form-label ">Subject</label>
                     </div>
                     <div class="row">
 
                         <div class="col-md-9">
-                            <textarea name="comentsEmail" id="" class="form-control" cols="30" rows="10" placeholder="Coments"></textarea>
+                            <textarea name="comentsEmail" id="" class="form-control formStyleTxt" cols="30" rows="10" placeholder="Coments"></textarea>
                         </div>
                         <br>
                         <br>
@@ -159,13 +159,13 @@
         <div class="b-example-divider"></div>
         <div class="container bg-dark" data-aos="fade-up">
             <footer class="py-3 my-4">
-            <ul class="justify-content-center border-bottom pb-3 mb-3">
-                <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
-                <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
-                <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
-                <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
-                <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
-            </ul>
+                <ul class="justify-content-center border-bottom pb-3 mb-3">
+                    <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
+                    <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
+                    <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
+                    <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
+                    <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
+                </ul>
                 <div class="row row-social-media">
                     <div class="coll-md-4"></div>
                     <div class="col-md-4 social-media-footer">
