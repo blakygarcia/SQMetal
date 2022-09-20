@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> <!-- This is a library for animation on scroll -->
     <link rel="stylesheet" href="css/contactUs.css">
+    <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/navOtherPages.css">
     <link rel="stylesheet" href="css/footer.css">
 </head>

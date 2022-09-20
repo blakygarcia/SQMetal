@@ -87,13 +87,13 @@
                                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" >
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="images/truck-unloading.jpg" class="d-block w-100" alt="..." width="350px" height="250px">
+                                            <img src="images/truck-unloading.jpg" class="d-block w-100" alt="..." width="350px" height="450px">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/welding02.jpg" class="d-block w-100" alt="..." width="350px" height="250px">
+                                            <img src="images/welding02.jpg" class="d-block w-100" alt="..." width="350px" height="450px">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/welding03.jpg" class="d-block w-100" alt="...">
+                                            <img src="images/contenedores.jpg" class="d-block w-100" alt="..."width="350px" height="450px">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
