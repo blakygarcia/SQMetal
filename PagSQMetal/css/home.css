@@ -103,3 +103,10 @@ nav .stickyNavbar{
     height: 600px;
     margin: auto;
 }
+.formStyleTxt{
+    color: #d8b75a;
+}
+
+.hidediv{
+    display: none;
+}

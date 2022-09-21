@@ -53,16 +53,16 @@
             <div class="row" id="rowMaterialsHome" >
                 <div class="col-lg-4">
                     <img data-bs-toggle="modal" data-bs-target="#modalFerrousMaterial" src="images/home/scrap-materials/ferrous-material-index.png" id="imageCircleHome" class="bd-placeholder-img rounded-circle" width="140" height="140" alt="">
-                    <h2 class="subtitleTextImagesCircle textOneSubtitle" data-bs-toggle="modal" data-bs-target="#modalFerrousMaterial">Ferrous materials</h2>
+                    <h2 class="subtitleTextImagesCircle textOneSubtitle formStyleTxt" data-bs-toggle="modal" data-bs-target="#modalFerrousMaterial">Ferrous materials</h2>
                     <!--  <p><a class="btn btn-primary" href="#">View details &raquo;</a></p>-->
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                     <img data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial" src="images/home/scrap-materials/non-ferrous-material.png" id="imageBetweenCircleHome" class="bd-placeholder-img rounded-circle" width="140" height="140" alt="">
-                    <h2 data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial" class="subtitleTextImagesCircle">Non-ferrous materials</h2>
+                    <h2 data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial" class="subtitleTextImagesCircle formStyleTxt">Non-ferrous materials</h2>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                 <img data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial" src="images/home/scrap-materials/cardboard-image.jpg" id="imageCircleHome" class="bd-placeholder-img rounded-circle" width="140" height="140" alt="">
-                    <h2 class="subtitleTextImagesCircle" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">Cardboard material</h2>
+                    <h2 class="subtitleTextImagesCircle formStyleTxt" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">Cardboard material</h2>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
@@ -171,7 +171,7 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Ferrous Material</h5>
+                    <h5 class="modal-title formStyleTxt" id="exampleModalLabel">Ferrous Material</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -210,7 +210,7 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Non Ferrous Material</h5>
+                    <h5 class="modal-title formStyleTxt" id="exampleModalLabel">Non Ferrous Material</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -227,7 +227,7 @@
                             <span class="textMaterialModal"> Copper</span>
                         </div>
                         <div>
-                            <img id="myImg05" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/copper.jpg" alt="Copper" width="140px" height="140px">
+                            <img id="myImg05" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/cooperMetal.jpeg" alt="Copper" width="140px" height="140px">
                         </div>
                     </div>
                     <div class="rowFerrous">
@@ -235,7 +235,7 @@
                             <span class="textMaterialModal">Aluminium</span>
                         </div>
                         <div>
-                            <img id="myImg06" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/aluminium.jpg" alt="Aluminium" width="140px" height="140px">
+                            <img id="myImg06" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/aluminiumMetal.jpeg" alt="Aluminium" width="140px" height="140px">
                         </div>
                     </div> 
                     <div  class="rowFerrous">
@@ -251,7 +251,7 @@
                             <span class="textMaterialModal">Steel</span>
                         </div>
                         <div>
-                            <img id="myImg08" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/steel.jpg" alt="Steel" width="140px" height="140px">
+                            <img id="myImg08" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/steelMetal.jpeg" alt="Steel" width="140px" height="140px">
                         </div>
                     </div> 
                     <div  class="rowFerrous">
@@ -259,7 +259,7 @@
                             <span class="textMaterialModal">Radiator</span>
                         </div>
                         <div>
-                            <img id="myImg09" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/radiator.jpg" alt="soft-steel" width="140px" height="140px">
+                            <img id="myImg09" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/radiatorCopperAluminiumMetal.jpeg" alt="radiator" width="140px" height="140px">
                         </div>
                     </div>
                     <div class="rowFerrous">
@@ -290,27 +290,28 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Cardboard Material</h5>
+                    <h5 class="modal-title formStyleTxt" id="exampleModalLabel">Cardboard Material</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <div class="rowFerrous">
-                        <div>
-                            <span class="textMaterialModal">Cardboard Material</span>
-                        </div>
-                        <div>
-                            <img id="myImg12" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/cardboard.jpg" alt="Cardboard Material" width="140px" height="140px">
-                        </div>
-                        
-                    </div>
                     <div>
                         <div>
-                           <span class="textMaterialModal"> Cardboard Category OCC</span>
+                           <span class="textMaterialModal"> Cardboard OCC #11</span>
                         </div>
                         <div>
                             <img id="myImg13" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/OCC.jpg" alt="Cardboard Category OCC" width="140px" height="140px">
                         </div>
                     </div>
+                    <div class="rowFerrous">
+                        <div>
+                            <span class="textMaterialModal">Cardboard OCC #12</span>
+                        </div>
+                        <div>
+                            <img id="myImg12" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/OCC12.jpeg" alt="Cardboard Material" width="140px" height="140px">
+                        </div>
+                        
+                    </div>
+                    
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -381,10 +382,10 @@
                     <img src="..." class="d-block w-100 modal-content-img02 sizeImg" id="img03" alt="overSize Material"  >
                     </div>
                     <div class="carousel-item">
-                    <img src="images/MaterialsModals/overSize2.jpg" class="sizeImg d-block" alt="overSize Material">
+                    <img src="images/MaterialsModals/overSizeMaterialimg2.jpeg" class="sizeImg d-block" alt="overSize Material">
                     </div>
                     <div class="carousel-item">
-                    <img src="images/MaterialsModals/overSize3.jpg" class="sizeImg d-block" alt="overSize Material">
+                    <img src="images/MaterialsModals/overSizeMaterialimg3.jpeg" class="sizeImg d-block" alt="overSize Material">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselModalImg3" data-bs-slide="prev">
@@ -425,11 +426,7 @@
             <img class="modal-content-img08" id="img08">
             <div id="caption08"></div>
         </div>
-        <div id="myModal09" class="modal-img09">
-            <span class="close09" data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial">&times;</span>
-            <img class="modal-content-img09" id="img09">
-            <div id="caption09"></div>
-        </div>
+        
         <div id="myModal10" class="modal-img10">
             <span class="close10" data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial">&times;</span>
             <img class="modal-content-img10" id="img10">
@@ -441,28 +438,38 @@
             <div id="caption11"></div>
         </div>
 
-        <!-- The following modals are for the carbard Material -->
-        <div id="myModal12" class="modal-img12">
-            <span class="close12" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">&times;</span>
-            <div id="carouselModalImg4" class="carousel slide" data-bs-ride="carousel">
+        <div id="myModal09" class="modal-img09">
+            <span class="close09" data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial">&times;</span>
+            <div id="carouselModalImg9" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img src="..." class="d-block w-100 modal-content-img02 sizeImg" id="img12" alt="cardboard Material"  >
+                    <img src="..." class="d-block w-100 modal-content-img01 sizeImg" id="img09" alt="Radiator"  >
                     </div>
                     <div class="carousel-item">
-                    <img src="images/MaterialsModals/cardboard2.jpg" class="sizeImg d-block" alt="cardboard Material">
+                    <img src="images/MaterialsModals/radiatorBronzeMetal.jpeg" class="sizeImg d-block" alt="HMS Material">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="images/MaterialsModals/radiatorCopperAluminiumMetal.jpeg" class="sizeImg d-block" alt="HMS Material">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselModalImg4" data-bs-slide="prev">
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselModalImg9" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselModalImg4" data-bs-slide="next">
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselModalImg9" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
         </div>
+
+        <!-- The following modals are for the carbard Material -->
+        <div id="myModal12" class="modal-img12">
+            <span class="close12" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">&times;</span>
+            <img class="modal-content-img12" id="img12">
+            <div id="caption12"></div>
+        </div>
+        
         <div id="myModal13" class="modal-img13">
             <span class="close13" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">&times;</span>
             <div id="carouselModalImg5" class="carousel slide" data-bs-ride="carousel">
@@ -472,6 +479,9 @@
                     </div>
                     <div class="carousel-item">
                         <img src="images/MaterialsModals/OCC2.jpg" class="sizeImg d-block" alt="cardboard Material">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/MaterialsModals/cardboard.jpg" class="sizeImg d-block" alt="cardboard Material">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselModalImg5" data-bs-slide="prev">

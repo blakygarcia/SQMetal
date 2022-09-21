@@ -32,6 +32,9 @@ body{
 .card-text{
     background-color: rgb(43, 43, 43);   
 }
+.formStyleTxt{
+    color: #d8b75a;
+}
 
 @media(max-width:300px){
   .row{
