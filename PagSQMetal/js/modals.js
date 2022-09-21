@@ -181,6 +181,7 @@ span08.onclick = function() {
 //Finish the 08 modal
 
 //Begin the 09 modal
+/*
 var modal09 = document.getElementById("myModal09");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
@@ -199,7 +200,21 @@ var span09 = document.getElementsByClassName("close09")[0];
 // When the user clicks on <span> (x), close the modal
 span09.onclick = function() { 
   modal09.style.display = "none";
+}*/
+
+var modal09 = document.getElementById("myModal09");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img02 = document.getElementById("myImg09");
+var modalImg02 = document.getElementById("img09");
+var captionText02 = document.getElementById("caption02");
+img02.onclick = function(){
+  modal02.style.display = "block";
+  modalImg02.src = this.src;
+  captionText02.innerHTML = this.alt;
 }
+
+
 //Finish the 09 modal
 
 //Begin the 10 modal

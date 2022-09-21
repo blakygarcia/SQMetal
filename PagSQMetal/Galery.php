@@ -39,30 +39,29 @@
     </header>
     <main class="fondo" >
             <div class="tite">
-            <h1>GALLERY</h1>
+            <h1 class="formStyleTxt">GALLERY</h1>
             </div>
-        
         <div class="album py-5 bg-rgb(43, 43, 43)">
             <div class="container " >
 
                 <div class="row row-cols-1  row-cols-sm-2 row-cols-md-3 ">
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/colaboradores.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img data-bs-target="#modalImg1" src="images/colaboradores.jpeg" alt="" id="myImg01" width="410px" height="300px">
 
                          
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/peopleSQ.jpg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img src="images/peopleSQ.jpg" alt="" id="myImg02" width="410px" height="300px">
 
                         
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/containerScrap.jpg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img src="images/containerScrap.jpg" alt="" id="myImg03" width="410px" height="300px">
 
                     
                         </div>
@@ -70,21 +69,21 @@
 
                     <div class="col">
                         <div class="card shadow-sm">
-                           <img src="images/frente.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                           <img src="images/frente.jpeg" alt="" id="myImg04" width="410px" height="300px">
 
                            
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/machine.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img src="images/machine.jpeg" alt="" id="myImg05" width="410px" height="300px">
 
                             
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/weldin.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img src="images/weldin.jpeg" alt="" id="myImg06" width="410px" height="300px">
 
                         
                         </div>
@@ -92,21 +91,21 @@
 
                     <div class="col">
                         <div class="card shadow-sm">
-                         <img src="images/truc negro.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                         <img src="images/truc negro.jpeg" alt="" id="myImg07" width="410px" height="300px">
 
                           
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/select.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img src="images/select.jpeg" alt="" id="myImg08" width="410px" height="300px">
 
                           
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/barriendo.jpeg" alt="" id="homeImagesSQMetal" width="410px" height="300px">
+                        <img src="images/barriendo.jpeg" alt="" id="myImg09" width="410px" height="300px">
 
                            
                         </div>
@@ -160,10 +159,10 @@
         </footer>
     </div>
 
-
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script><!-- This is a library for animation on scroll -->
     <script type="text/javascript" src="sources/vanilla-tilt.js"></script>
     <script src="js/navOtherPages.js"></script>
+    <script src="js/galleryModals.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script>
         AOS.init();
