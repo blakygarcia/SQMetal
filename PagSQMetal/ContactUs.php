@@ -121,24 +121,24 @@
                     <div class="col-md-4 ">
                         <h6 id="subtitleTextImagesCircle">Scrap Queen El Tanque</h6>
                         <br>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15712.326982474344!2d-84.38518732191585!3d10.09238795144037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa073a88167a8db%3A0xe768eda19aefa18c!2sScrap%20Queen%20Metal%20Corp%20S.R.L.!5e0!3m2!1ses-419!2scr!4v1657327279460!5m2!1ses-419!2scr" width="190" height="130" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4793.170975300921!2d-84.58793393970416!3d10.478340735360716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa073a88167a8db%3A0xe768eda19aefa18c!2sScrap%20Queen%20Metal%20Corp%20S.R.L.!5e1!3m2!1sen!2scr!4v1663886719218!5m2!1sen!2scr" width="190" height="130" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <h6 id="subtitleTextImagesCircle">Locations S.Q Metal</h6>
-                        <p>location:Province of Alajuela, The Fortuna, The Fortuna, 21007.</p>
+                        <p>location: In front of the DELTA Gas Station in Ciudad Quesada, main road to Aguas Zarcas.</p>
 
                     </div><!-- /.col-lg-4 -->
                     <div class="col-md-4 ">
                         <h6 id="subtitleTextImagesCircle">Scrap Queen Ciudad Quesada</h6>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.19045372422!2d-84.42450288520311!3d10.326638192627657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc734c19400603ebc!2zMTDCsDE5JzM1LjkiTiA4NMKwMjUnMjAuMyJX!5e0!3m2!1ses!2scr!4v1657472443934!5m2!1ses!2scr" width="190" height="130" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1425.7140619471757!2d-84.42330388593327!3d10.32597966841972!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcad3910c47a40f1!2sScrap%20Queen%20Metal%20Corp%20S.R.L.!5e1!3m2!1sen!2scr!4v1663887009498!5m2!1sen!2scr" width="190" height="130" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <h6 id="subtitleTextImagesCircle">Locations S.Q Metal</h6>
-                        <p>location: 8HGH+M33 Cd Quesada, Province of Alajuela.</p>
+                        <p>location: 100 meters west of the El Tanque Ferretero colony, next to the EBAIS, right side.</p>
 
                     </div><!-- /.col-lg-4 -->
                     <div class="col-md-4 ">
                         <h6 id="subtitleTextImagesCircle">Scrap Queen San Ramon  (Headquarter Office)</h6>
                     
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.287879181456!2d-84.4830065852052!3d10.075481392799478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x15c37901888764cd!2zMTDCsDA0JzMxLjciTiA4NMKwMjgnNTAuOSJX!5e0!3m2!1ses!2scr!4v1657472273553!5m2!1ses!2scr" width="190" height="130" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3744.150310533617!2d-84.48539957744754!3d10.075401669768564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0457d02740a9f%3A0x94fe2065f3a01057!2sScrap%20Queen%20Metal%20Corp%20S.R.L.!5e1!3m2!1sen!2scr!4v1663886401751!5m2!1sen!2scr" width="190" height="130" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <h6 id="subtitleTextImagesCircle">Locations S.Q Metal</h6>
-                        <p>location: 3GG9+5MV San Ramón, Province of Alajuela </p>
+                        <p>location: 400 meters west of the Super Pro, next to the Dr.Gas gas sale. </p>
 
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->

@@ -47,21 +47,21 @@
                 <div class="row row-cols-1  row-cols-sm-2 row-cols-md-3 ">
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img data-bs-target="#modalImg1" src="images/colaboradores.jpeg" alt="" id="myImg01" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage1"><img data-bs-target="#modalImg1" src="images/colaboradores.jpeg" alt="" id="myImg01" width="410px" height="300px"></a>
 
                          
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/peopleSQ.jpg" alt="" id="myImg02" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage2"><img src="images/peopleSQ2.jpg" alt="" id="myImg02" width="410px" height="300px"></a>
 
                         
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/containerScrap.jpg" alt="" id="myImg03" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage3"><img src="images/containerScrap.jpg" alt="" id="myImg03" width="410px" height="300px"></a>
 
                     
                         </div>
@@ -69,21 +69,21 @@
 
                     <div class="col">
                         <div class="card shadow-sm">
-                           <img src="images/frente.jpeg" alt="" id="myImg04" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage4"><img src="images/frente.jpeg" alt="" id="myImg04" width="410px" height="300px"></a>
 
                            
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/machine.jpeg" alt="" id="myImg05" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage5"><img src="images/machine.jpeg" alt="" id="myImg05" width="410px" height="300px"></a>
 
                             
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/weldin.jpeg" alt="" id="myImg06" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage6"><img src="images/weldin.jpeg" alt="" id="myImg06" width="410px" height="300px"></a>
 
                         
                         </div>
@@ -91,21 +91,21 @@
 
                     <div class="col">
                         <div class="card shadow-sm">
-                         <img src="images/truc negro.jpeg" alt="" id="myImg07" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage7"><img src="images/truc negro.jpeg" alt="" id="myImg07" width="410px" height="300px"></a>
 
                           
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/select.jpeg" alt="" id="myImg08" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage8"><img src="images/select.jpeg" alt="" id="myImg08" width="410px" height="300px"></a>
 
                           
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <img src="images/barriendo.jpeg" alt="" id="myImg09" width="410px" height="300px">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage9"><img src="images/barriendo.jpeg" alt="" id="myImg09" width="410px" height="300px"></a>
 
                            
                         </div>
@@ -158,6 +158,85 @@
             </div>
         </footer>
     </div>
+
+        <!-- Modales para cada imagen -->
+
+
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage1">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/colaboradores.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage2">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/peopleSQ2.jpg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage3">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/containerScrap.jpg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage4">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/frente.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage5">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/machine.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage6">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/weldin.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage7">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/truc negro.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage8">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/select.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+    <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage9">
+        <div class="modal-dialog modal-lg modal-dialog-centered" >
+            <div class="modal-content">
+                <img src="images/barriendo.jpeg"  alt=""/>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script><!-- This is a library for animation on scroll -->
     <script type="text/javascript" src="sources/vanilla-tilt.js"></script>
