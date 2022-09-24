@@ -77,7 +77,7 @@
             <div class="row featurette row1">
                 <div class="col-md-8 ">
                     <h2 class="featurette-heading ">Our Services. <span class="text-muted"></span></h2>
-                    <p class="lead text-white ">We are a company certified as an authorized waste manager of ferrous and non-ferrous materials. We also have a certificate for the transport of ferrous and non-ferrous waste.Placement of containers in your compan's yards (collection center). Export of already managed waste!.</p>
+                    <p class="lead text-white ">We are a company certified as an authorized waste manager of ferrous and non-ferrous materials. We also have a certificate for the transport of ferrous and non-ferrous waste.Placement of containers in your company yards (collection center). Export of already managed waste!.</p>
                 </div>
                 <div class="col-md-3">
                     <div class="j">
