@@ -205,15 +205,23 @@ span09.onclick = function() {
 var modal09 = document.getElementById("myModal09");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
-var img02 = document.getElementById("myImg09");
-var modalImg02 = document.getElementById("img09");
-var captionText02 = document.getElementById("caption02");
-img02.onclick = function(){
-  modal02.style.display = "block";
-  modalImg02.src = this.src;
-  captionText02.innerHTML = this.alt;
+var img09 = document.getElementById("myImg09");
+var modalImg09 = document.getElementById("img09");
+var captionText09 = document.getElementById("caption09");
+img09.onclick = function(){
+  modal09.style.display = "block";
+  modalImg09.src = this.src;
+  captionText09.innerHTML = this.alt;
 }
 
+// Get the <span> element that closes the modal
+var span09 = document.getElementsByClassName("close09")[0];
+
+// When the user clicks on <span> (x), close the modal
+span09.onclick = function() { 
+  modal09.style.display = "none";
+}
+//Finish the 10 modal
 
 //Finish the 09 modal
 
