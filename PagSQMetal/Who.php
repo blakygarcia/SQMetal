@@ -29,7 +29,7 @@
                 <li><a href="#"><div id="crownLogoNvabar" width="32" height="32"></div></a></li>
                 <div class="containerTextNav" id="containerTextNavbar">
                 <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
-                    <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
+                    <li class="itemNavbar"><a href="Who.php" class="textNav">¿Who we are?</a></li>
                     <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
                     <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
                     <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
@@ -63,8 +63,8 @@
 
             <div class="row featurette" data-aos="fade-right"  data-aos-easing="ease-in-sine">
                 <div class="col-md-7 order-md-2">
-                    <h2 class="featurette-heading secondTitle">What we are looking for ? </h2>
-                    <p class="lead text-white">We are interested in being a recycling center for its service, quality and responsibility that the population of my country and the commercial sector use to responsibly dispose of their recyclable waste. We seek to open a door to foreign trade with various destinations, through the exchange of raw materials for recycling. We are oriented to establish long term relationships with our suppliers and buyers, a relationship based on quality, respect and responsibility in the handling of ferrous and non-ferrous scrap.</p>
+                    <h2 class="featurette-heading secondTitle">¿What we are looking for? </h2>
+                    <p class="lead text-white">We are interested in being a recycling center for its service, quality and responsibility that the population of my country and the company sector use to responsibly dispose of their recyclable waste. We seek to open a door to foreign trade with various destinations, through the exchange of raw materials for recycling. We are oriented to establish long term relationships with our suppliers and buyers, a relationship based on quality, respect and responsibility in the handling of ferrous and non-ferrous scrap.</p>
                 </div>
             <div class="col-md-5 order-md-1" id="lo">
             <img src="images/peopleSQ.jpg" alt="" id="homeImagesSQMetal"  class="imgHomeBody02 rounded">
@@ -129,7 +129,7 @@
             <footer class="py-3 my-4">
             <ul class="justify-content-center border-bottom pb-3 mb-3">
                 <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
-                <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
+                <li class="itemNavbar"><a href="Who.php" class="textNav">¿Who we are?</a></li>
                 <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
                 <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
                 <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
