@@ -29,7 +29,7 @@
                 <div class="containerTextNav" id="containerTextNavbar">
                     <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
                     <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
-                    <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
+                    <li class="itemNavbar"><a href="Gallery.php" class="textNav">Gallery</a></li>
                     <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
                     <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
                 </div>
@@ -61,7 +61,7 @@
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage3"><img src="images/containerScrap.jpg" alt="" id="myImg03" width="410px" height="300px"></a>
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage3"><img src="images/imgGallery1.jpg" alt="" id="myImg03" width="410px" height="300px"></a>
 
                     
                         </div>
@@ -83,7 +83,7 @@
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage6"><img src="images/weldin.jpeg" alt="" id="myImg06" width="410px" height="300px"></a>
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage6"><img src="images/imgGallery2.jpg" alt="" id="myImg06" width="410px" height="300px"></a>
 
                         
                         </div>
@@ -180,7 +180,7 @@
     <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage3">
         <div class="modal-dialog modal-lg modal-dialog-centered" >
             <div class="modal-content">
-                <img src="images/containerScrap.jpg"  alt=""/>
+                <img src="images/imgGallery1.jpg"  alt=""/>
             </div>
         </div>
     </div>
@@ -201,7 +201,7 @@
     <div tabindex ="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage6">
         <div class="modal-dialog modal-lg modal-dialog-centered" >
             <div class="modal-content">
-                <img src="images/weldin.jpeg"  alt=""/>
+                <img src="images/imgGallery2.jpg"  alt=""/>
             </div>
         </div>
     </div>

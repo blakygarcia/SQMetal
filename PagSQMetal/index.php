@@ -34,7 +34,7 @@
                 <div class="containerTextNav" id="containerTextNavbar">
                     <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
                     <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
-                    <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
+                    <li class="itemNavbar"><a href="Gallery.php" class="textNav">Gallery</a></li>
                     <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
                     <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
                 </div>
@@ -53,16 +53,16 @@
             <div class="row" id="rowMaterialsHome" >
                 <div class="col-lg-4">
                     <img data-bs-toggle="modal" data-bs-target="#modalFerrousMaterial" src="images/home/scrap-materials/ferrous-material-index.png" id="imageCircleHome" class="bd-placeholder-img rounded-circle" width="140" height="140" alt="">
-                    <h2 class="subtitleTextImagesCircle textOneSubtitle formStyleTxt" data-bs-toggle="modal" data-bs-target="#modalFerrousMaterial">Ferrous materials</h2>
+                    <h2 class="subtitleTextImagesCircle textOneSubtitle formStyleTxt" data-bs-toggle="modal" data-bs-target="#modalFerrousMaterial">Ferrous Materials</h2>
                     <!--  <p><a class="btn btn-primary" href="#">View details &raquo;</a></p>-->
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                     <img data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial" src="images/home/scrap-materials/non-ferrous-material.png" id="imageBetweenCircleHome" class="bd-placeholder-img rounded-circle" width="140" height="140" alt="">
-                    <h2 data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial" class="subtitleTextImagesCircle formStyleTxt">Non-ferrous materials</h2>
+                    <h2 data-bs-toggle="modal" data-bs-target="#modalNonFerrousMaterial" class="subtitleTextImagesCircle formStyleTxt">Non-Ferrous Materials</h2>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                 <img data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial" src="images/home/scrap-materials/cardboard-image.jpg" id="imageCircleHome" class="bd-placeholder-img rounded-circle" width="140" height="140" alt="">
-                    <h2 class="subtitleTextImagesCircle formStyleTxt" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">Cardboard material</h2>
+                    <h2 class="subtitleTextImagesCircle formStyleTxt mayus" data-bs-toggle="modal" data-bs-target="#modalCardboardMaterial">Cardboard Material</h2>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
@@ -272,7 +272,7 @@
                     </div> 
                     <div  class="rowFerrous">
                         <div>
-                            <span class="textMaterialModal">sheathed copper cable</span>
+                            <span class="textMaterialModalLower"><span class="textMaterialModal">Sheathed</span> Copper Cable</span>
                         </div>
                         <div>
                             <img id="myImg11" data-bs-dismiss="modal" class="rounded-circle" src="images/MaterialsModals/sheathedCopper.jpg" alt="sheathed copper cable" width="140px" height="140px">

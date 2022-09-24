@@ -26,7 +26,7 @@
                 <div class="containerTextNav" id="containerTextNavbar">
                 <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
                     <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
-                    <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
+                    <li class="itemNavbar"><a href="Gallery.php" class="textNav">Gallery</a></li>
                     <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
                     <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
                 </div>

@@ -92,6 +92,7 @@ nav .stickyNavbar{
 
 .textMaterialModal{
     font-size: 40px;
+    text-transform: capitalize;
 }
 
 .modal-body{
@@ -109,4 +110,11 @@ nav .stickyNavbar{
 
 .hidediv{
     display: none;
+}
+
+.textMaterialModalLower{
+    font-size: 40px;
+}
+.mayus{
+    text-transform: capitalize;
 }

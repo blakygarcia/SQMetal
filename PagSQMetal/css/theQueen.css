@@ -40,6 +40,7 @@ body{
 .profilInformation{
     color: #fff;
     font-size: 22px;
+    text-transform: capitalize;
 }
 .profilInformation-line2{
     color: #fff;

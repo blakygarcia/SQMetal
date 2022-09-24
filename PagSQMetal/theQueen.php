@@ -24,7 +24,7 @@
                 <div class="containerTextNav" id="containerTextNavbar">
                 <li class="itemNavbar"><a href="index.php" class="textNav firstTextNav">Home</a></li>
                     <li class="itemNavbar"><a href="Who.php" class="textNav">Who we are?</a></li>
-                    <li class="itemNavbar"><a href="Galery.php" class="textNav">Gallery</a></li>
+                    <li class="itemNavbar"><a href="Gallery.php" class="textNav">Gallery</a></li>
                     <li class="itemNavbar"><a href="theQueen.php" class="textNav">The Queen</a></li>
                     <li class="itemNavbar"><a href="ContactUs.php" class="textNav">Contact us</a></li>
                 </div>
@@ -47,7 +47,7 @@
                         <a href="#"><i class="fa-brands fa-facebook-f fa-2x" id="facebook-icon"></i></a>
                         <a href="#"><i class="fa-brands fa-instagram fa-2x" id="instagram-icon"></i></a>
                         <a href="#"><i class="fa-brands fa-twitter fa-2x" id="twitter-icon"></i></a>
-                        <!-- <a href="#">Read More</a> -->
+                        <a href="#">Read More</a> -->
                     </div>
                 </div>
             </div>
